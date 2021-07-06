@@ -1,0 +1,320 @@
+body{
+    font-family: Work Sans,Arial,sans-serif;
+}
+
+.logo{
+    width: 268px;
+    height: 33px;
+}
+.links{
+    display: flex;
+    width:30%;
+    margin-top: 0.6%;
+    justify-content: space-evenly;
+    font-weight: bold;
+}
+.navigation{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: white;
+    margin-bottom: 9%;
+    width: 100%;  
+    top:0; 
+    overflow: hidden;
+}
+.bodyContainer{
+    margin-top: 6%;
+}
+.about{
+    color: #05c4a4;
+    text-decoration: none;
+
+}
+.about:hover{
+    text-decoration: none;
+    color:#b0b0b0;
+}
+.Item:hover{
+    color: #05c4a4;
+    text-decoration: none;
+
+}
+.Item{
+    color:#b0b0b0
+}
+
+.lead__logo{
+    width: 40px;
+    height: 39px;
+    
+}
+.title{
+    color: #05c4a4;
+    font-size: 40px;
+    font-weight: lighter;
+}
+.para{
+    font-weight: bold;
+    color:#787675
+}
+.first{
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+}
+.card1{
+height: 345px;
+margin: 10px;
+background-color: #05c4a4;
+border-radius: 15px;
+}
+.card2{
+ height: 345px;
+margin: 10px;
+background-color: #3d83df;
+border-radius: 15px;
+}
+.card3{
+    height: 345px;
+   margin: 10px;
+   background-color: #1b2734;
+   border-radius: 15px;
+   }
+   .cardIcon{
+       height: 24px;
+       width: 24px;
+       margin:10px;
+   }
+   
+   .text1{
+       font-size:30px;
+       color:white;
+       font-weight: bold;
+      
+   }
+   .text2{
+    font-size:22px;
+    color:white;
+    font-weight: lighter;
+   
+}
+.selectCountry{
+    background: none;
+    border: none;
+    color: white;
+    text-decoration: underline;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.para1{
+    color:#05c4a4;
+    font-size: 25px;
+}
+.logos{
+    width: 135px;
+    height:34,8px;
+    text-decoration: none;
+    filter:grayscale(100%)
+}
+.logos:hover{
+    width: 135px;
+    height:34,8px;
+    text-decoration: none;
+    filter:grayscale(0%)
+}
+
+.logos1{
+    width: 47px;
+    height:52,8px;
+    text-decoration: none;
+    filter:grayscale(100%)
+}
+.logos1:hover{
+    width: 47px;
+    height:52,8px;
+    text-decoration: none;
+    filter:grayscale(0%)
+}
+.ranim{
+    width: 112px;
+    height:52,8px;
+    text-decoration: none;
+    filter:grayscale(100%)
+}
+.ranim:hover{
+    width: 112px;
+    height:38,8px;
+    text-decoration: none;
+    filter:grayscale(0%)
+}
+.logos10{
+    width: 73px;
+    height:48,8px;
+    text-decoration: none;
+    filter:grayscale(100%)
+}
+.logos10:hover{
+    width: 73px;
+    height:48,8px;
+    text-decoration: none;
+    filter:grayscale(0%)
+}
+
+
+
+
+.lists{
+    
+    display: flex;
+    justify-content:space-evenly;
+
+
+
+
+
+}
+.footer1{
+    text-align: center;
+    font-size: 13px;
+    height: 125px;
+    border-color: #787675;
+    border-width: 20px;
+}
+.btn{
+    background-color: #3d83df;
+    color:white;
+    font-weight: bold;
+    font-size: 15px;
+}
+.btn:hover{
+    background-color: #1d64c0;
+    color:white;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+
+.btt{
+    background-color: #3d83df;
+    color:white;
+    width: 104px;
+    height: 30px;
+    font-size: 10px;
+    font-weight: bold;
+    
+
+   
+}
+
+.btt:hover{
+    background-color: #1d64c0;
+    color:white;
+    width: 104px;
+    height: 30px;
+    font-size: 10px;
+    font-weight: bold;
+   
+}
+.cbody{
+    display: flex;
+   flex-wrap: nowrap;
+   justify-content: space-between;
+}
+.title1{
+    font-weight: bold;
+    color: #787675;
+}
+.cc:hover{
+    box-shadow: 0 0 25px 0 rgba(20, 27, 202, .17)
+}
+.ctn{
+    background-color: #d8f4f4;
+    
+}
+
+.back{
+    background: url(/logoo.png) no-repeat;
+    background-position:bottom center;
+    text-align: center;
+}
+
+.card{
+        border-radius: 7px;
+}
+
+
+.txt{
+    color: #05c4a4;
+    
+  
+}
+.roww{
+    display: flex;
+    justify-content: space-around;
+}
+
+.carddd{
+    text-align: center;
+}
+.hea{
+    margin-top: 100px;
+}
+.animationBox5{
+    position: relative;
+    animation-name: animationFn;
+    animation-duration: 1s;
+    animation-iteration-count: 1;
+    
+}
+
+.animationBox6{
+    position: relative;
+    animation-name: animationFn;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.animationBox7{
+    position: relative;
+    animation-name: animationFn;
+    animation-duration: 5s;
+    animation-iteration-count: 1;
+    
+}
+
+
+.animationBox1{
+    position: relative;
+    animation-name: animationFn;
+    animation-duration: 1s;
+    animation-iteration-count: 1;
+    margin-top: 7%;
+}
+.animationBox2{
+    position: relative;
+    animation-name: animationFn;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.animationBox3{
+    position: relative;
+    animation-name: animationFn;
+    animation-duration: 5s;
+    animation-iteration-count: 1;
+    margin-top: 7%;
+    margin-bottom: 2%;
+ 
+}
+.animationBox4{
+    position: relative;
+    animation-name: animationFn;
+    animation-duration: 7s;
+    animation-iteration-count: 1;
+}
+@keyframes animationFn {
+    0%   { left:0; top:200px;}
+    25%  { left:0px; top:0px;}
+  
+  }
